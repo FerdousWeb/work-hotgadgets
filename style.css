@@ -1,0 +1,88 @@
+.space li{
+    padding-right: 20px;
+}
+.buy-now-button{
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 10 20px;
+    
+}
+.bg{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    margin-bottom: 50px;
+    background-color: white;
+    
+}
+.org-color{
+    color: orange;
+}
+.card img{
+    padding: 50px;
+}
+.card p{
+    padding: 20px;
+}
+.cat-bag{
+    background-color:white;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+
+    
+}
+.cat-bag img {
+    padding: 30px;
+}
+.cat-bag h5{
+    padding: 20px;
+}
+
+
+.box, .box-2, .box-1{
+    background-color:white;
+    height: 250px;
+    width: 230px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+}
+.box, .box-2, .box-1 h5{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.box-2{
+    margin-top: 40px;
+}
+.line{
+    height: 7px;
+    width: 90px;
+    background-color: rgb(241, 123, 25);
+    border-radius: 10px;
+    display: inline-block; 
+}
+.ml{
+    text-align: center;
+}
+
