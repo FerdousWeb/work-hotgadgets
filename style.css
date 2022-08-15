@@ -10,18 +10,19 @@
     border: none;
     cursor: pointer;
 }
-.container{
-    margin-bottom: 100px;
+.margin{
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .carousel-item{
     padding: 10 20px;
     
 }
-.bg{
+/* .bg{
     background-image: url(images/bg-2.png);
     background-repeat: no-repeat;
     
-}
+} */
 .card{
     border: none;
     border-radius: 10px;
@@ -58,7 +59,7 @@
     padding: 20px;
 }
 
-
+/* categorise */
 .box, .box-2, .box-1{
     background-color:white;
     height: 250px;
@@ -67,6 +68,10 @@
     box-shadow: 5px 5px 10px lightgray;
     padding: 50px;
 }
+.box img{
+    padding-top: 25px;
+}
+
 .box, .box-2, .box-1 h5{
     text-align: center;
     padding-top: 20px;
@@ -84,5 +89,11 @@
 }
 .ml{
     text-align: center;
+    margin-bottom: 50px;
 }
-
+.navbar-nav li a {
+    color: black;
+}
+.navbar-nav li a:hover {
+    color: rgb(236, 61, 61);
+}
